@@ -1,6 +1,4 @@
-We modify our code from [eTT](https://github.com/chmxu/eTT_TMLR2022).
- 
-Please follow the instruction in [eTT](https://github.com/chmxu/eTT_TMLR2022) for data preparation and meta-training.
+We modify our code from [eTT](https://github.com/chmxu/eTT_TMLR2022). Please follow the instruction in [eTT](https://github.com/chmxu/eTT_TMLR2022) for data preparation and meta-training.
  
 ### Inference
 
